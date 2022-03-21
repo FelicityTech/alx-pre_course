@@ -1,4 +1,3 @@
-# 
-0x01-git
+# 0x01-git
 
 this first git project
